@@ -11,6 +11,7 @@
 </svelte:head>
 
 <section>
+	<h2>Svelte - Tailwind ve Firestore Uygulaması</h2>
 	<Counter />
 </section>
 
@@ -21,5 +22,4 @@
 		justify-content: center;
 		align-items: center;
 	}
-
 </style>
