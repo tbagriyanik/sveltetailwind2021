@@ -8,12 +8,13 @@
 <Header />
 
 <main>
-	<h1 class="uppercase text-indigo-500">Hello People of Earth</h1>
+	<h1 class="uppercase text-indigo-500">Svelte Test Uygulaması</h1>
 	<slot />
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>visit <a href="https://github.com/tbagriyanik/sveltetailwind2021/">my GitHub</a> site</p>
+	<p />
 </footer>
 
 <style>
